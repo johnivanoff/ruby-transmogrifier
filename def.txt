@@ -1,0 +1,12 @@
+FIELD NAME     DESCRIPTION            FORMAT
+
+ALPHA          Vend Lookup            X(10)
+NAME           Vend Name              X(50)
+ADDR1          Address 1              X(50)
+ADDR2          Address 2              X(50)
+CITY ST        City / State           X(50)
+ZIP            Zip Code               X(10)
+PHONE          Phone, 10 digits       X(10)
+CONTACT        contact name           X(30)
+COUNTRY        Country Code           X(3)
+SETUP DATE     Set-Up Date (yyyymmdd) 9(8)
